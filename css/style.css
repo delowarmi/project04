@@ -1,0 +1,418 @@
+/* All Common CSS Start  */
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: none;
+        font-family: "Raleway", sans-serif;
+}
+a,a :hover{
+        text-decoration: none;
+        display:inline-block;
+}
+ul,ol{
+        list-style-type: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+        padding: 0;
+        margin: 0;
+        line-height: 0.8;
+}
+/* All Common CSS End */
+/* Header file star  */
+.navbar{
+        background: #4D008B;
+        background: #4B0088;
+}
+picture{
+        padding-top: 35px;
+}
+
+.nav-link{
+        color:#FFFFFF;
+        
+}
+.nav-link:hover{
+        color: #D9D9D9;
+}
+.bar{
+        margin-top: 40px;
+}
+.bar i{
+        font-size: 35px   
+}
+/* Header file End  */
+/* Banner Part star  */
+#banner_part{
+        background: #4D008B;
+        background: #4B0088;
+        overflow: hidden;
+}
+.banner_text{
+        padding-top: 160px;
+        padding-left: 40px;
+}
+.banner_right_icon{
+        padding-top: 88px;
+}
+.banner_text p{
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 32px;
+        color: #FFFFFF;
+        padding-right: 250px;
+}
+.banner_text span{
+        font-size: 58.7px;
+        font-weight: 700;
+        line-height: 67px;
+}
+.banner_text h3{
+        font-size: 58.7px;
+        font-weight: 400;
+        line-height: 67px;
+}
+.banner_text a{
+        font-size: 20px;
+        font-weight: 500;
+        background: rgb(235, 154, 4);
+        padding: 10px 20px;
+        border-radius: 10px;
+        margin-top: 30px;
+        color: #FFFFFF;
+}
+/* Banner Part End  */
+/* Counter Part star  */
+#counter_part{
+        overflow: hidden;
+}
+.counter_left_text{
+        padding-top: 150px;
+        padding-bottom: 140px;
+}
+.counter_left_text p{
+        color: #30006C;
+        font-size: 21px;
+        font-weight: 400;
+        line-height: 32px;
+
+}
+.counter_left_text h3{
+        color: #30006C;
+        font-size: 50.7px;
+        font-weight: 400;
+        line-height: 58px;
+}
+.counter_left_text span{
+        color: #30006C;
+        font-size: 50.7px;
+        font-weight: 700;
+        line-height: 58px;
+}
+.counter_right_text{
+        padding-top: 100px;
+}
+.counter_right_text p{
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 24px;
+        color: #000000;
+        padding-right: 10px;
+}
+.counter_right_text span{
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 24px;
+        color: #30006C;
+}
+/* Counter Part star  */
+/* Service Part Start  */
+#service_part{
+        background: url(../images/Container.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        overflow: hidden;
+}
+.service_text{
+        padding-top: 140px;
+}
+.service_text p{
+        font-size: 21px;
+        font-weight: 400;
+        color: #F3F1D8;
+        line-height: 32px;
+}
+.service_text h3{
+        font-size: 48px;
+        font-weight: 400;
+        color: #F3F1D8;
+        line-height: 55px;
+}
+.service_text span{
+        font-size: 48px;
+        font-weight: 700;
+        color: #F3F1D8;
+        line-height: 55px;
+}
+.service_right_item{
+        padding-top: 330px;
+}
+.service_item_icon{
+        text-align: center;
+}
+.service_item_icon p{
+        font-size: 18.7px;
+        font-weight: 400;
+        padding: 0 60px;
+        color:#D9D9D9;
+        padding-bottom: 20px;
+        line-height: 32px;
+}
+/* Service Part End */
+
+/* Marketing Part Start  */
+#marketing_part{
+        padding-top: 140px;
+        padding-bottom: 130px;
+        overflow: hidden;
+}
+.marketing_text{
+        padding-left: 15px;
+}
+.marketing_text h3{
+        font-size: 48px;
+        font-weight: 400;
+        color: #30006C;
+        line-height: 55px;
+        padding-right: 600px;
+}
+.marketing_text span{
+        font-size: 48px;
+        font-weight: 700;
+        color: #30006C;
+        line-height: 55px;
+}
+.marketing_text p{
+        font-size: 21.3px;
+        font-weight: 400;
+        color:#30006C;
+        line-height: 32px;
+}
+/* Marketing Part End */
+/* Experience Part Start  */
+#experience_Part{
+        background: url(../images/Background.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        overflow: hidden;
+}
+.overly{
+        background: rgba(0, 0, 0, 0.897);
+        padding-top: 140px;
+        padding-bottom: 120px;
+}
+.experience_text h3{
+        font-size: 46px;
+        font-weight: 400;
+        color: #F3F1D8;
+        line-height: 55px;
+        padding-right: 500px;
+}
+.experience_text span{
+        font-size: 48px;
+        font-weight: 700;
+        color: #F3F1D8;
+        line-height: 55px;
+}
+.experience_text p{
+        font-size: 21.3px;
+        font-weight: 400;
+        color: #F3F1D8;
+        line-height: 32px;
+}
+.experience_icon {
+        padding-top: 50px;
+}
+.experience_text_part h3{
+        font-size: 53.3px;
+        font-weight: 600;
+        color: #F3F1D8;
+        line-height: 32px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+}
+.experience_text_part p{
+        font-size: 16px;
+        font-weight: 400;
+        color: #F3F1D8;
+        line-height: 32px;
+}
+/* Experience Part End  */
+/* Cliente Part Start  */
+#cliente_part{
+        padding-top: 110px;
+        padding-bottom: 110px;
+        overflow: hidden;
+}
+.cliente_part_text h3{
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 55px;
+        color: #30006C;
+}
+.cliente_part_text h3 span{
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 55px;
+        color: #30006C;
+}
+.cliente_part_text p{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 18px;
+        color: #30006C;
+}
+.cliente_part_text p span{
+        font-weight: 600;
+        font-size: 18.7px;
+        line-height: 28px;
+        color: #30006C;
+}
+.cliente_part_icon{
+        padding-top: 60px;
+}
+/* Cliente Part End */
+/* Contact Part Start  */
+#contact_Part{
+        background:url(../images/ban2.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        overflow: hidden;
+        padding-top: 55px;
+}
+.contact_text_part{
+        padding-top: 146px;
+}
+.contact_text_part h3{
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 55px;
+        color: #F3F1D8;
+        padding-right: 200px;
+}
+.contact_text_part h3 span{
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 55px;
+        color: #F3F1D8;
+}
+.contact_text_part p{
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 23px;
+        color: #F3F1D8;
+}
+.connn{
+        padding-top: 30px;
+        padding-bottom: 20px;
+}
+/* Contact Part End */
+/* Haber Part Start  */
+#haber_Part{
+        padding-top: 80px;
+        padding-bottom: 80px;
+        overflow: hidden;
+}
+.haber_text h3{
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 55px;
+        color: #310471;
+}
+.haber_text h3 span{
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 55px;
+        color: #310471;
+}
+.haber_text p{
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 24px;
+        color: #310471;
+}
+/* Haber Part End */
+/* Review Part Start  */
+#review_part{
+        background: #4D008B;
+        background: #4B0088;
+        overflow: hidden;
+        padding-top: 30px;
+        padding-bottom: 10px;
+}
+.review_part_text h3{
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 36px;
+        color: #F3F1D8;
+}
+.review_part_text p{
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 32px;
+        color: #FFFFFF;
+        padding-right: 100px
+}
+.review_part_text p span{
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 32px;
+        color: #FFFFFF;
+        font-style: italic;
+}
+/* Review Part End  */
+/* Social Part Start  */
+#social_part{
+        background:#38227B;
+        overflow: hidden;
+}
+.social_icon i{
+        font-size: 50px;
+        padding: 30px 40px;
+}
+.logo img{
+        text-align: center;
+        padding-top: 40px;
+}
+.cadit img{
+        text-align: center;
+        padding-top: 20px;
+}
+/* Social Part End  */
+/* Corporacion Part start  */
+#corporacion_part{
+        background: #22036F;
+        padding-top: 30px;
+        padding-bottom: 20px;
+        overflow: hidden;
+}
+.corporacion_logo_text p{
+        color: #F3F3F3;
+        color: #fff;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 32px;
+        padding: 0 420px;
+        padding-top: 20px;
+        padding-bottom: 10px;
+}
+.text p{
+        color: #F3F1D8;
+        font-size: 14px;
+        font-weight: 400;
+        padding-top: 40px;
+        line-height: 22px;
+}
+/* Corporacion Part End */

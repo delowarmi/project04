@@ -1,0 +1,212 @@
+
+/* Extra large devices (large desktops, 1200px and up)  */
+@media (min-width: 1200px) {  }
+
+ /* Large devices (desktops, 992px and up)  */
+@media (min-width: 992px) and (max-width: 1199.98px) { }
+ 
+/* Medium devices (tablets, 768px and up)  */
+@media (min-width: 768px) and (max-width: 991.98px) {  }
+
+/* Small devices (landscape phones, 576px and up)  */
+@media (min-width: 576px) and (max-width: 767.98px) { }
+
+/* Extra small devices (portrait phones, less than 576px)  */
+@media (min-width: 320px) and (max-width: 575.98px) {
+        .logo_up img{
+                width: 220px;
+                padding-top: 10px;
+        }
+        img{
+                width: 290px;
+        }
+        .navbar-toggler i{
+                color:rgb(255, 255, 255);
+        }
+        .nav-item{
+                text-align: center;
+                display: inline-block;
+        }
+        .nav-link{
+                background:white;
+                color: black;
+                padding: 5px 10px;
+                text-align: center;
+                margin: 5px 0;
+        }
+        .bar{
+                text-align: center;
+        }
+        .bar a{
+                padding:10px 10px;
+                text-align: center;
+        }
+        a {
+                padding: 10px 10px;
+                border-radius: 8px;
+              }
+        .banner_text {
+                padding-top: 60px;
+                padding-left: 40px;
+              }
+        .banner_text p {
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 24px;
+                color: #FFFFFF;
+                padding-right: 0;
+              } 
+        .banner_text h3 {
+                font-size: 40.7px;
+                font-weight: 400;
+                line-height: 40px;
+              }  
+        .banner_text span {
+                font-size: 40.7px;
+                font-weight: 700;
+                line-height: 47px;
+              }      
+        .counter_left_text {
+                padding-top: 50px;
+                padding-bottom: 40px;
+              }      
+        .counter_left_text h3 {
+                color: #30006C;
+                font-size: 40.7px;
+                font-weight: 400;
+                line-height: 48px;
+              }
+        .counter_right_text {
+                padding-top: 20px;
+              }
+        .service_text {
+                padding-top: 40px;
+              }
+        .service_text h3 {
+                font-size: 38px;
+                font-weight: 400;
+                color: #F3F1D8;
+                line-height: 45px;
+              }
+        .service_text span {
+                font-size: 38px;
+                font-weight: 700;
+                color: #F3F1D8;
+                line-height: 45px;
+              }
+        .service_text p {
+                font-size: 19px;
+                font-weight: 400;
+                color: #F3F1D8;
+                line-height: 32px;
+              }
+        .service_right_item {
+                padding-top: 50px;
+              }
+        #marketing_part {
+                padding-top: 40px;
+                padding-bottom: 30px;
+                overflow: hidden;
+              }
+        .marketing_text p {
+                font-size: 19.3px;
+                font-weight: 400;
+                color: #30006C;
+                line-height: 32px;
+              }
+        .marketing_text h3 {
+                font-size: 40px;
+                font-weight: 400;
+                color: #30006C;
+                line-height: 45px;
+                padding-right: 0px;
+              }
+        .marketing_text span {
+                font-size: 40px;
+                font-weight: 700;
+                color: #30006C;
+                line-height: 45px;
+              }
+        .overly {
+                background: rgba(0, 0, 0, 0.897);
+                padding-top: 40px;
+                padding-bottom: 20px;
+              }
+        .experience_text p {
+                font-size: 19.3px;
+                font-weight: 400;
+                color: #F3F1D8;
+                line-height: 32px;
+              }
+        .experience_text h3 {
+                font-size: 36px;
+                font-weight: 400;
+                color: #F3F1D8;
+                line-height: 45px;
+                padding-right: 0px;
+              }
+        .experience_text span {
+                font-size: 36px;
+                font-weight: 700;
+                color: #F3F1D8;
+                line-height: 45px;
+              }
+        #cliente_part {
+                padding-top: 30px;
+                padding-bottom: 30px;
+                overflow: hidden;
+              }
+        .cliente_part_text h3 {
+                font-weight: 400;
+                font-size: 30px;
+                line-height: 45px;
+                color: #30006C;
+              }
+        .cliente_part_text h3 span {
+                font-weight: 700;
+                font-size: 30px;
+                line-height: 45px;
+                color: #30006C;
+              }
+        .cliente_part_icon {
+                padding-top: 20px;
+              }
+        .contact_text_part {
+                padding-top: 46px;
+              }
+        .contact_text_part p {
+                font-size: 18px;
+                font-weight: 400;
+                line-height: 23px;
+                color: #F3F1D8;
+              }
+        .contact_text_part h3 {
+                font-size: 32px;
+                font-weight: 400;
+                line-height: 45px;
+                color: #F3F1D8;
+                padding-right: 0;
+              }
+        .contact_text_part h3 span {
+                font-size: 32px;
+                font-weight: 700;
+                line-height: 45px;
+                color: #F3F1D8;
+                padding-right: 0;
+              }
+        .corporacion_logo_text p {
+                color: #F3F3F3;
+                color: #fff;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 32px;
+                padding: 0 40px;
+                padding-top: 0px;
+                padding-bottom: 0px;
+                padding-top: 20px;
+                padding-bottom: 10px;
+              }
+
+
+
+}
